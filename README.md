@@ -1,1 +1,3 @@
-# CreateCryptocurrency-Python-
+# Create  Cryptocurrency-Python-
+This is the code for creating a simple cryptocurrency using the Python programming language
+
